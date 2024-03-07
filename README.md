@@ -1,4 +1,4 @@
-Title: Prediction of Air Quality Index Using Machine Learning Techniques: A Comparative Analysis
+##Title: Prediction of Air Quality Index Using Machine Learning Techniques: A Comparative Analysis
 
 In this project, we aimed to predict the Air Quality Index (AQI) using various machine learning techniques, presenting a comparative analysis of their performance. The motivation stems from the critical impact of air quality on public health and the environment. Our objectives include developing predictive models, evaluating their effectiveness, and identifying the most reliable model.
 
